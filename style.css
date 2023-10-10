@@ -1,0 +1,19 @@
+@charset "UTF-8";
+*{
+    /* margin: 0px; */
+
+}
+
+
+#noticia {
+    background-color: #f9f9f9;
+    border: 1px solid gray;
+    padding: 10px;
+
+
+
+}
+h2{
+    margin: 0px;
+}
+
