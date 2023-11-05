@@ -2,7 +2,7 @@
 
 
 /* Herança e Espeficidades*/
-
+/* 
 body{background-color: rgba(16, 199, 212, 0.664);
     color: rgb(22, 21, 21);
     font-size: 1em;
@@ -16,7 +16,7 @@ body{background-color: rgba(16, 199, 212, 0.664);
     background-color: aquamarine;
     border-radius: 10px;
     
-}
+} */
 
 
 
@@ -39,4 +39,45 @@ body{background-color: rgba(16, 199, 212, 0.664);
 h2{
     margin: 0px;
 } */
+
+                /* BARRA DE NAEGAÇÃO VERTICAL */
+
+        ul{
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+
+        ul a{
+            border: 1px solid red;
+            width: 200px;
+            height: 40px;
+            display: block;
+            color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            text-decoration: none;
+            text-indent: 45px;
+            line-height: 40px;
+            background: url(imagens/menu.png) no-repeat left bottom;
+          
+        }
+        a:hover{
+            background-position: right bottom;
+        }
+        
+
+ 
+
+
+
+
+
+
+        /* li{
+           
+            padding: 5px 20px;
+            background: url(imagens/seta.png) no-repeat left center;
+        } */
+            
+
 
